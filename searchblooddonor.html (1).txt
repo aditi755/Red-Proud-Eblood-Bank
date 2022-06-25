@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<head><title>Search blood donor</title></head>
+<body>
+<header>
+<a href="index.html">
+<img src="C:\Users\HP\OneDrive\Desktop\Eblood bank\img\logo.jpg.jpg" alt="Save Life"></a>
+</header>
+<hr>
+
+<nav>
+<table cellspacing="5" cellpadding="5">
+<tr>
+<td><a href="index.html">Home</td>
+<td><a href="articles.html">Articles</td>
+<td><a href="searchblooddonor.html">Search Blood Donor</td>
+<td><a href="benefits.html">Benefits</td>
+
+
+</tr>
+</table>
+<hr>
+<h2>Search blood Donor</h2>
+<form>
+<table width="450px">
+</tr>
+<tr>
+<td>
+<label for="first_name"> First Name</label>
+</td>
+<td>
+<input type="text" name="first_name" maxlength="50" size="30"
+</td>
+</tr>
+<tr>
+<td>
+<label for="last_name"> Last Name</label>
+</td>
+<td>
+<input type="text" name="last_name" maxlength="50" size="30">
+</td>
+</tr>
+<tr>
+<td>
+<label for="email">Email Address</label>
+</td>
+<td>
+<input type="text" name="email" maxlength="80" size="30">
+</td>
+</tr>
+<tr>
+<td>
+<label for="city">City Name</label>
+</td>
+<td>
+<input type="text" name="city" maxlength="50" size="30">
+</td>
+</tr>
+<tr>
+<td>
+<td colspan="2" style=text-align:center">
+<input type="submit" value="submit">
+</td>
+</tr>
+</table>
+</form>
+</boby>
+ 
+
+</nav>
+</body>

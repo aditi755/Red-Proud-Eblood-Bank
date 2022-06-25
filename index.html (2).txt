@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<head><title>E-Blood Bank- Save Life</title></head>
+<body>
+<header>
+<a href="index.html">
+<img src="C:\Users\HP\OneDrive\Desktop\Eblood bank\img\logo.jpg.jpg" alt="Save Life"></a>
+</header>
+<hr>
+
+<nav>
+<table cellspacing="5" cellpadding="5">
+<tr>
+<td><a href="index.html">Home</a></td>
+<td><a href="file:///C:/Users/HP/OneDrive/Desktop/Eblood%20bank/allarticles.html">Articles</a></td>
+<td><a href="file:///C:/Users/HP/OneDrive/Desktop/Eblood%20bank/searchblooddonorout.html">Search Blood Donor</a></td>
+<td><a href="file:///C:/Users/HP/OneDrive/Desktop/Eblood%20bank/benefit1out.html">Benefits</a></td>
+
+
+</tr>
+</table>
+</nav>
+<hr>
+<h2>Welcome to E-Blood Bank</h2>
+
+<p>Encouraging people to donate blood and making blood donation and searchimg process easier.</p>
+<img src="C:\Users\HP\OneDrive\Desktop\Eblood bank\img\bloodbank.png"> width="100%" height="100%
+title="Save blood, save life">
+<ul>
+<li>Your humanness proves your holiness.</li>
+<li>Donate blood and give gift of life.</li>
+<li>Volunteer with us.</li>
+<li>Eradicate blood shortage.</li>
+</ul>
+<p><strong>Made with love></strong></p>
+<hr>
+</body>

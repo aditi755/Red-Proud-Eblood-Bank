@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<head><title>Benefits</title></head>
+<body>
+<header>
+<a href="index.html">
+<img src="C:\Users\HP\OneDrive\Desktop\Eblood bank\img\logo.jpg.jpg" alt="Save Life"></a>
+</header>
+<hr>
+
+<nav>
+<table cellspacing="5" cellpadding="5">
+<tr>
+<td><a href="index.html">Home</td>
+<td><a href="articles.html">Articles</td>
+<td><a href="file:///C:/Users/HP/OneDrive/Desktop/Eblood%20bank/searchblooddonorout.html">Search Blood Donor</td>
+<td><a href="benefits.html">Benefits</td>
+
+
+</tr>
+</table>
+<hr>
+
+<h2>Benefits</h2>
+<img src="C:\Users\HP\OneDrive\Desktop\Eblood bank\img\savelife.jfif" width="50%" height="50%">
+
+<ol>
+<p>
+<li><strong>Reduce Cardivascular Diseases</strong><br />
+
+By reducing iron in the blood cells, blood donation can also reduce the risk of heart attacks and strokes. A study published in the Journal of the American Medical Association, found that participants ages 43 to 61 had fewer heart attacks and strokes when they donated blood every six months. In another study by the American Journal of Epidemiology, researchers found, in a sample size of 2,682 men in Finland, those who donated blood at least once a year had an 88 percent lower risk of heart attacks than those who did not donate.
+</li>
+</p>
+<li><strong>Reduce thr Risk of Cancer</strong></li>
+Iron has also been thought to increase free-radical damage in the body and been linked to an increased risk of cancer and aging. The Miller-Keystone Blood Center says that consistent blood donation associated with lower risks of cancers including liver, lung, colon, and throat cancers due to the reduction in oxidative stress when iron is released from the bloodstream.
+</p>
+<p>
+<li><strong>Give Sense of Pride</strong></li>
+While there are several physical benefits to donating blood, the most powerful health benefit is arguably psychological. Donating blood means that someone (or multiple people) somewhere will receive the help they desperately need. The psychological health benefit you receive from knowing you're helping others can be just as helpful as the physical health benefit. When you roll up your sleeve and sit down in that chair, you know you're making a difference - and that makes you feel good
+</p>
+</ol>
+</nav>
+</body>

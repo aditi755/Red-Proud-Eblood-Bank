@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<head><title>Articles</title></head>
+<body>
+<header>
+<a href="index.html">
+<img src="C:\Users\HP\OneDrive\Desktop\Eblood bank\img\logo.jpg.jpg" alt="Save Life"></a>
+</header>
+<hr>
+
+<nav>
+<table cellspacing="5" cellpadding="5">
+<tr>
+<td><a href="index.html">Home</td>
+<td><a href="articles.html">Articles</td>
+<td><a href="searchblooddonor.html">Search Blood Donor</td>
+<td><a href="benefits.html">Benefits</td>
+
+
+</tr>
+</nav>
+</table>
+<hr>
+
+<h2>Articles</h2>
+
+<table>
+<tr>
+<td bgcolor="lightcyan" align="center">
+<header>
+<a href="file:///C:/Users/HP/OneDrive/Desktop/Eblood%20bank/articles/view1advantages-and-disadvantages-of-donating-blood.html">
+<h3>Advantages and disadvantages of donating blood</h3>
+</a>
+</header>
+</td>
+</tr>
+<tr>
+<td>
+<p>Each day, thousands of people need donated blood and blood products to keep them in good healthor allow them to stay alive.</p>
+<strng>keywords:</strong>
+<ol>
+<li>Donation</li>
+<li>Encouragement</li>
+<li>Need</li>
+</td>
+</tr>
+</table>
+</body>
